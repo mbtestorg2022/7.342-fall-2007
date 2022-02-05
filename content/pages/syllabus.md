@@ -36,18 +36,177 @@ Grading is Pass/Fail and will depend on attendance, participation and completion
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | EBV and lymphoproliferative disorders |  |
-| 3 | MHV-68 as a model in mice for gamma herpes viruses | Oral presentations about laboratory techniques |
-| 4 | Gastric cancer and _Helicobacter pylori_ I |  |
-| 5 | Gastric cancer and _Helicobacter pylori_ II |  |
-| 6 | Human papillomavirus and cervical cancer I |  |
-| 7 | Human papillomavirus and cervical cancer II |  |
-| 8 | Vaccine development process - Guest speakers |  |
-| 9 | Hepatitis C, liver cirrhosis and hepatocellular carcinoma |  |
-| 10 | Atherosclerosis as an inflammatory disease I |  |
-| 11 | Atherosclerosis as an inflammatory disease II | Essay due |
-| 12 | Diabetes and multiple sclerosis as an inflammatory disease |  |
-| 13 | Oral presentations | Oral presentations about essays
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+EBV and lymphoproliferative disorders
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+MHV-68 as a model in mice for gamma herpes viruses
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations about laboratory techniques
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Gastric cancer and _Helicobacter pylori_ I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Gastric cancer and _Helicobacter pylori_ II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Human papillomavirus and cervical cancer I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Human papillomavirus and cervical cancer II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Vaccine development process - Guest speakers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Hepatitis C, liver cirrhosis and hepatocellular carcinoma
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Atherosclerosis as an inflammatory disease I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Atherosclerosis as an inflammatory disease II
+{{< tdclose >}}
+{{< tdopen >}}
+Essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Diabetes and multiple sclerosis as an inflammatory disease
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations about essays
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
